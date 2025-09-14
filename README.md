@@ -1,5 +1,6 @@
 <!-- Welcome animado -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=D758F7&background=FFFFFF00&width=700&height=100&lines=Hello!!+I'm+Dreh+(%3A)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=D758F7&background=FFFFFF&width=700&height=100&lines=Hello!!+I%27m+Dreh+%28%3A%29)
+
 
 ---
 
