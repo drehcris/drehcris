@@ -5,14 +5,13 @@
 
 ## 👩‍💻 About Me  
 
-🎓 My studies are focus on: 
+🎓 As a **Data Science** studant my studies are focus on: 
 
 - 📊 Pyhton and R for Data Science  
+                 &
 - 🤖 Machine Learning and Deep learning    
-- 🗃️ SQL for relational and non-relational databases   
 
-📚 I'm currently a student of **Data Science**   
-  
+
 
 
 🍬 Besides data, I love sweets, and 🎬 I’m a big Marvel & DC fan!  
