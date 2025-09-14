@@ -34,3 +34,4 @@
 ## 📱 Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dreccris@gmail.com)  
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drehcriso&theme=dark&hide_border=false)
