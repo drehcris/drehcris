@@ -6,7 +6,7 @@
 
 🎓 As a **Data Science** student, my studies are focused on: 
 
-- 📊 Python and R for Data Science  
+- 📊 Python, R and SQL for Data Science  
 - 🤖 Machine Learning and Deep Learning    
 
 
