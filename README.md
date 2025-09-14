@@ -4,9 +4,9 @@
 
 ## 👩‍💻 About Me  
 
-🎓 As a **Data Science** student my studies are focus on: 
+🎓 As a **Data Science** student, my studies are focused on: 
 
-- 📊 Pyhton and R for Data Science  
+- 📊 Python and R for Data Science  
 - 🤖 Machine Learning and Deep learning    
 
 
