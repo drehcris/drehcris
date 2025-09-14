@@ -1,4 +1,4 @@
-## Oie!! Eu sou a Andressa Cristina, estudante de Cência de Dados e entusiasta em machine e deep learning!(:👋
+## Oie!! Eu sou a Andressa Cristina, estudante de Ciência de Dados e entusiasta em Machine e Deep Learning!(:👋
 Minhas linguagens principais são python, R e SQL.
 
 <!--
