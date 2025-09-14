@@ -5,16 +5,17 @@
 
 ## 👩‍💻 About Me  
 
-🎓 As a **Data Science** studant my studies are focus on: 
+🎓 As a **Data Science** student my studies are focus on: 
 
 - 📊 Pyhton and R for Data Science  
-                 &
 - 🤖 Machine Learning and Deep learning    
 
 
 
+Besides data, I love:
+🍬 Sweets
+🎬 Marvel & DC 
 
-🍬 Besides data, I love sweets, and 🎬 I’m a big Marvel & DC fan!  
 
 ---
 
@@ -28,7 +29,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/Pandas-150458?logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-150458?logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
