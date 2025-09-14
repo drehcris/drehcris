@@ -40,7 +40,7 @@
 
 ## 📱 Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:franciellivaleriodeoliveira@gmail.com)  
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/httpsfranverse)  
+
 
 <!-- Footer decorativo -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4191&height=150&section=footer"/>
