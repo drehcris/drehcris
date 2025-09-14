@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=SQL&logoColor=white)
 ![R](https://img.shields.io/badge/R-150458?logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
