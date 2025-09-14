@@ -1,5 +1,5 @@
 <!-- Welcome animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=60&pause=1000&color=D91656&width=1000&height=65&lines=Hi!+I+am+Fran+👩🏿🌈🧩+;Welcome!++🤍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=933AF7&background=FFFFFF00&width=435&lines=Andressa+Cristina)](https://git.io/typing-svg)
 
 ---
 
