@@ -1,15 +1,14 @@
 <!-- Welcome animado -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=D758F7&background=FFFFFF00&width=700&height=100&lines=Hello!!+I%27m+Dreh+%28%3A)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=1000&color=D758F7&background=FFFFFF00&width=700&height=100&lines=Hello!!+I'm+Dreh+(%3A)](https://git.io/typing-svg)
 ---
 
 ## 👩‍💻 About Me  
 
-🎓 I'm studying and building projects in the field of **Data & AI**, with a strong focus on:  
+🎓 My studies are focus on: 
 
-- 📊 Data Analytics and Data Science  
-- 🤖 Machine Learning and Artificial Intelligence    
+- 📊 Data Science  
+- 🤖 Machine Learning and Deep learning    
 - 🗃️ SQL for relational and non-relational databases   
 
 📚 I'm currently a student of **Data Science**   
