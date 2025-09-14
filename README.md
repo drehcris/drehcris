@@ -7,7 +7,7 @@
 
 🎓 My studies are focus on: 
 
-- 📊 Data Science  
+- 📊 Pyhton and R for Data Science  
 - 🤖 Machine Learning and Deep learning    
 - 🗃️ SQL for relational and non-relational databases   
 
