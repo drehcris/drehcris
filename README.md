@@ -34,4 +34,3 @@
 ## 📱 Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dreccris@gmail.com)  
 
-![Snake animation](https://github.com/drehcris/drehcris/github-readme-activity-snake?color=dark)
