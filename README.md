@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=franciellivalerio&theme=transparent&bg_color=FFFFFF&border_color=E90074&show_icons=true&icon_color=E90074&title_color=E90074&text_color=000000" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=drehcris&theme=transparent&bg_color=FFFFFF&border_color=D758F7FF&show_icons=true&icon_color=D758F7FF&title_color=D758F7FF&text_color=000000" height="150"/>
 
 ---
 
