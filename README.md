@@ -5,20 +5,17 @@
 
 ## 👩‍💻 About Me  
 
-🎓 I'm actively studying and building projects in the field of **Data & AI**, with a strong focus on:  
+🎓 I'm studying and building projects in the field of **Data & AI**, with a strong focus on:  
 
 - 📊 Data Analytics and Data Science  
-- 🤖 Machine Learning and Artificial Intelligence  
-- 🗂️ Big Data and Data Pipelines (ETL)  
-- 🗃️ SQL for relational and non-relational databases  
-- 📈 Business Intelligence with Power BI  
-- 🔄 Data Engineering practices (automation and pipelines)  
+- 🤖 Machine Learning and Artificial Intelligence    
+- 🗃️ SQL for relational and non-relational databases   
 
-📚 I'm currently a student of **Systems Analysis and Development** and **Computer Science**  
-✅ Certified in **Databricks Fundamentals**  
+📚 I'm currently a student of **Data Science**   
+  
 
-💡 I also run a study social network on X and Instagram [@httpsfranverse](https://x.com/httpsfranverse) where I share knowledge and help people reach their goals in technology.  
-🍬 Besides data, I love sweets, and 🎬 I’m a big Marvel fan!  
+
+🍬 Besides data, I love sweets, and 🎬 I’m a big Marvel & DC fan!  
 
 ---
 
@@ -32,7 +29,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![R](https://img.shields.io/badge/Pandas-150458?logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
